@@ -1,0 +1,48 @@
+body {
+    height: 100vh;
+    background-image: url("./images/backdark.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   opacity: 1;
+   
+   
+    width:100%;
+  }
+  
+  .btn {
+     
+     background-color: rgb(44, 124, 210);
+     color: azure;
+    
+     
+  }
+  .btn:hover{
+    background-color: rgb(44, 124, 210);
+    color: black
+  }
+  
+  main{
+    margin-top: 200px;
+   
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgba(252, 229, 229, 0.3);
+    margin-bottom: 100px;
+  }
+  .container button{
+     width: 300px;
+     margin-left: 250px;
+  
+    
+  }
+  footer p{
+    margin-left: 430px;
+    color:aliceblue;
+   
+    
+  }
+  
+    
+  

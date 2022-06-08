@@ -1,0 +1,72 @@
+ul li a{
+    text-decoration:none;
+    color: rgb(250, 246, 246);
+    font-family: arial;
+    font-weight: bold;
+    transition: 0.2s ease-in-out;
+    
+}
+ul li a:hover{
+    color: rgb(44, 124, 210);
+}
+ul{
+    margin-left: 110px;
+}
+.navbar-brand{
+    font-size: 15px;
+    margin-left: 30px;
+}
+body {
+    height: 65vh;
+    background-image: url("./images/backdark.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   opacity: 1;
+   
+   
+    width:100%;
+ }
+ h3{
+    color: rgb(227, 233, 237);
+ }
+ h2{
+    color: rgb(227, 233, 237);
+}
+p{
+    color: rgb(222, 228, 235);
+}
+
+ .btn {
+     
+     background-color:rgb(44, 124, 210);
+     color: azure;
+    
+     
+ }
+ .btn:hover{
+    background-color:rgb(44, 124, 210);
+    color: black;
+ }
+ .container    label{
+     color: rgb(214, 223, 232);
+ }
+
+main{
+    margin-top: 150px;
+    width: 900px;
+    margin-left: 280px;
+    background-color: rgba(239, 224, 224, 0.3);;
+}
+.cn {
+    color: rgb(202, 211, 219);
+}
+
+
+footer p{
+    margin-left: 400px;
+ }
+ .table-responsive{
+    border-collapse: collapse;
+ }
